@@ -16,3 +16,7 @@
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+ul {
+  list-style: none;
+  margin: 15px;
+}
